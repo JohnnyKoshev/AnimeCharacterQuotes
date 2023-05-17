@@ -28,7 +28,7 @@ This is a simple web application that allows users to search for quotes from the
 
 ## License
 
-The project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The project is licensed under the MIT License.
 
 ## Acknowledgments
 
